@@ -3,7 +3,7 @@ C - Elementary programming
 
 Project
 ---------
-find the biggest possible square on a board, while avoiding obstacles.
+Find the biggest possible square on a board, while avoiding obstacles.
 
 >**USE:**
 
