@@ -12,6 +12,7 @@ cd BSQ
 make
 ```
 <br>
+
 ![Imgur](http://i.imgur.com/CiUs2i3.png)
 
 >**Map generator:**
